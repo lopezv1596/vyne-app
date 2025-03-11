@@ -1,0 +1,4 @@
+[2025-03-10 03:41:40] ERROR: llama_decode returned -3
+[2025-03-10 03:41:52] ERROR: llama_decode returned -3
+[2025-03-10 03:44:10] ERROR: llama_decode returned -3
+[2025-03-10 03:44:10] ERROR: llama_decode returned -3
