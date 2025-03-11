@@ -1,5 +1,5 @@
 streamlit
-llama-cpp-python
+llama_cpp_python --find-links=https://abetlen.github.io/llama-cpp-python/whl/nightly/cpu
 requests
 beautifulsoup4
 psutil
